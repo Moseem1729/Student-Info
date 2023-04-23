@@ -16,6 +16,9 @@ public class AdditionLogic1Application {
 	public String getMsgFirst() {
 		return "ongoing work";
 	}
+	public String getMsgThird() {
+		return "ongoing work";
+	}
 
 
 }
